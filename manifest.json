@@ -2,8 +2,8 @@
   "name": "Eden Maya 🪽",
   "short_name": "Eden Maya",
   "description": "אפליקציית רוחניות, הודיה והעצמה אישית",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/EDEN-MAYA/"
+  "scope": "/EDEN-MAYA/"
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fdf8f0",
