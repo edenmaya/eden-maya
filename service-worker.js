@@ -1,7 +1,7 @@
-// Eden Maya Service Worker v2
-const CACHE_NAME = 'eden-maya-v2';
+// Eden Maya Service Worker v3
+const CACHE_NAME = 'eden-maya-v3';
 const ASSETS = [
-  './eden-maya-app.html',
+  './index.html',
   './manifest.json'
 ];
 
